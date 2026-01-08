@@ -1,0 +1,18 @@
+[
+    {
+        "id" : 1,
+        "item_name" : "bronze_sword",
+        "item_type" : "meele_weapon",
+        "rarity" : "common",
+        "drop_type_loot" : false,
+        "exploration_type_loot" : true,
+        "found_in" : ["temples","ruins","warren lands"],
+        "gacha_pullable" : false,
+        "gacha_weight" : 0,
+        "attributes" : {
+            "ATK"  : 23,
+            "HP%" : 0.32 
+        },
+        "item_description" : "handy sword , a friend in time of need"
+    }
+]
